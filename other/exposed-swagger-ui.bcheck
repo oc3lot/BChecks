@@ -28,6 +28,7 @@ run for each:
     "swagger.yaml",
     "swagger/v1/swagger.json",
     "swagger/v1/swagger.yaml",
+    "swagger/v1.0/swagger.json",
     "swagger-resources/restservices/v2/api-docs",
     "api",
     "api/doc",
